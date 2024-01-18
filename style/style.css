@@ -4,6 +4,9 @@
 }
 .header-container{
     background-color: #FFF8F3;
+    background-image: url('../portfolio-resources/images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 .nev-container{
     display: flex;
@@ -11,6 +14,7 @@
     justify-content: space-around;
     align-items: center;
     padding-top: 15px;
+    width: ;
 }
 h1{
     font-size: 30px;
@@ -39,9 +43,8 @@ ul,li,a{
        justify-content: center;
        justify-content: space-around;
        align-items: center;
-       width: 60%;
+       width: 90%;
        margin: auto;
-  
 }
 .download-btn,.contact-btn{
     padding: 15px;
@@ -49,9 +52,15 @@ ul,li,a{
         border: none;
         background-color: orange;
         color: white;
+        margin-top: 10px;
 }
 .header-text>h3{
     font-size: 50px;
-        font-style: normal;
-        font-weight: 700;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.hardy-image{
+    position: relative;
+    top: 5px;
 }
