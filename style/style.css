@@ -7,6 +7,7 @@
     background-image: url('../portfolio-resources/images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
+    
 }
 .nev-container{
     display: flex;
@@ -43,6 +44,8 @@ ul,li,a{
        justify-content: center;
        justify-content: space-around;
        align-items: center;
+    background-image: url('/portfolio-resources/images/developer.png');
+    background-repeat: no-repeat;
 }
 .download-btn,.contact-btn{
     padding: 15px;
@@ -57,7 +60,10 @@ ul,li,a{
     font-size: 50px;
     font-style: normal;
     font-weight: 700;
+}
+.header-text{
     position: relative;
+    left: 64px;
 }
 
 .hardy-image{
@@ -166,7 +172,5 @@ h5{
 }
 .footer-text{
     font-size: 35px;
-}
-input{
-    
+    padding-bottom: 10px;
 }
