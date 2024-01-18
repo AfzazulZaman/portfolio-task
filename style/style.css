@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-container{
+    background-color: #FFF8F3;
+}
+.nev-container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 15px;
+}
+h1{
+    font-size: 30px;
+}
+.name{
+    color: orange;
+}
+ul,li,a{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    margin-left: 10px;
+    align-items: center;
+    color: black;
+}
+.hire-btn{
+    padding: 15px;
+        border-radius: 3px;
+        border: none;
+        background-color: orange;
+        margin-left: 10px;
+        color: white;
+}
+.header-image-conainer{
+       display: flex;
+       justify-content: center;
+       justify-content: space-around;
+       align-items: center;
+       width: 60%;
+       margin: auto;
+  
+}
+.download-btn,.contact-btn{
+    padding: 15px;
+        border-radius: 3px;
+        border: none;
+        background-color: orange;
+        color: white;
+}
+.header-text>h3{
+    font-size: 50px;
+        font-style: normal;
+        font-weight: 700;
+}
