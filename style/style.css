@@ -80,6 +80,9 @@ ul,li,a{
      margin-top: 25px;
 }
 
-.about-contact>li{
-    display: block;
+.about-info{
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    margin: 30px;
 }
