@@ -129,6 +129,7 @@ h5{
 }
 .summary-texts{
     padding: 100px;
+    letter-spacing: 1px;
 }
 .download-cv-btn{
         padding: 15px;
@@ -138,7 +139,7 @@ h5{
         margin-left: 10px;
         color: white;
         position: relative;
-        right: 42%;
+        right: 52%;
         top: 50px;
         
 }
