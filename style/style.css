@@ -53,6 +53,7 @@ ul,li,a{
         background-color: orange;
         color: white;
         margin-top: 10px;
+        
 }
 .header-text>h3{
     font-size: 50px;
@@ -63,4 +64,22 @@ ul,li,a{
 .hardy-image{
     position: relative;
     top: 5px;
+}
+.about-text{
+      text-align: center;
+      background-color: #FFF8F3;
+      margin: 200px;
+      padding: 100px;
+
+}
+.about-contact{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     justify-content: space-around;
+     margin-top: 25px;
+}
+
+.about-contact>li{
+    display: block;
 }
