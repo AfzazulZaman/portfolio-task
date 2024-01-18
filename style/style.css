@@ -11,10 +11,10 @@
 .nev-container{
     display: flex;
     justify-content: center;
-    justify-content: space-around;
+    justify-content:space-around;
     align-items: center;
     padding-top: 15px;
-    width: ;
+
 }
 h1{
     font-size: 30px;
@@ -43,8 +43,6 @@ ul,li,a{
        justify-content: center;
        justify-content: space-around;
        align-items: center;
-       width: 90%;
-       margin: auto;
 }
 .download-btn,.contact-btn{
     padding: 15px;
@@ -59,6 +57,7 @@ ul,li,a{
     font-size: 50px;
     font-style: normal;
     font-weight: 700;
+    position: relative;
 }
 
 .hardy-image{
