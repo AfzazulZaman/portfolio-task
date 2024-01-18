@@ -125,7 +125,7 @@ h5{
     display: flex;
     justify-content: center;
     gap: 70px;
-    padding: 29px;
+    padding: 131px;
 }
 .summary-texts{
     padding: 100px;
@@ -140,4 +140,32 @@ h5{
         position: relative;
         right: 42%;
         top: 50px;
+        
+}
+.footer-title{
+    font-size:35px;
+}
+.footer-container{
+    display: flex;
+    justify-content: center;
+    background-color: #FFF8F3;
+    gap: 20%;
+    padding: 200px;
+}
+.footer-form{
+    height: 300px;
+}
+.footer-desctiption{
+    font-size: 16px;
+}
+.footer-img{
+    position: relative;
+    right: 6px;
+    top: 6px;
+}
+.footer-text{
+    font-size: 35px;
+}
+input{
+    
 }
